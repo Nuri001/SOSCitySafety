@@ -1,5 +1,6 @@
 ﻿# SOSCitySafety <br>
  Flutter application with nose.js server and mongoDB DB. <br>
+ [vedio link](https://www.youtube.com/watch?v=_pC4Bz-ZGns)
 An application for reporting to the municipal hotline during an emergency.<br>
 ![1](https://user-images.githubusercontent.com/108418308/210174745-6944cea4-8070-433c-9e4e-d379ebd257e5.png)
 ![2](https://user-images.githubusercontent.com/108418308/210174813-d0de1c3f-13ad-41dd-9554-3eeba0b2c27c.png)
